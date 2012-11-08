@@ -21,6 +21,7 @@
 		5FB88D5A164B882500FEEC91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB88D3B164B882400FEEC91 /* Foundation.framework */; };
 		5FB88D62164B882500FEEC91 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5FB88D60164B882500FEEC91 /* InfoPlist.strings */; };
 		5FB88D65164B882500FEEC91 /* AppIntroTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FB88D64164B882500FEEC91 /* AppIntroTests.m */; };
+		5FB88D6F164B8D8F00FEEC91 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FB88D6E164B8D8F00FEEC91 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5FB88D61164B882500FEEC91 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5FB88D63164B882500FEEC91 /* AppIntroTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppIntroTests.h; sourceTree = "<group>"; };
 		5FB88D64164B882500FEEC91 /* AppIntroTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppIntroTests.m; sourceTree = "<group>"; };
+		5FB88D6E164B8D8F00FEEC91 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				5FB88D48164B882400FEEC91 /* IntroAppDelegate.h */,
 				5FB88D49164B882400FEEC91 /* IntroAppDelegate.m */,
 				5FB88D40164B882400FEEC91 /* Supporting Files */,
+				5FB88D6E164B8D8F00FEEC91 /* Storyboard.storyboard */,
 			);
 			path = AppIntro;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				5FB88D4C164B882400FEEC91 /* Default.png in Resources */,
 				5FB88D4E164B882400FEEC91 /* Default@2x.png in Resources */,
 				5FB88D50164B882400FEEC91 /* Default-568h@2x.png in Resources */,
+				5FB88D6F164B8D8F00FEEC91 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
